@@ -1,3 +1,21 @@
+7691bc72182146ccba06a0577affe361
+java -jar jenkins.war --httpPort=8081
+http://localhost:8081/login?from=%2F
+CICD --Jenkins,
+       Jenkins with Git
+       Jenkins with Git,Maven
+       Jenkins with Sonar
+       Jenkins with Jfrog Artifactory
+       Jenkins with Configuration
+ SCM --Git,GitHub,Gitlab
+ 
+ Management --->Ansible
+                Ansible Tower
+                Ansible CLI
+                Ansible with EC2/EMR Setu
+                Ansible with Hadoop Cluster Setup
+                
+
 # Note: 
   Material specific to SAPIENT has been moved to [SAPIENT_LM](https://github.com/SeshagiriSriram/SAPIENT_LM)
 # Introduction
